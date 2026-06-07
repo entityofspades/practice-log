@@ -1,0 +1,1 @@
+Day 1: Learned OOP (Classes), introduced the 4 pillars. I also learned about the frameworks which is i guess the Flutter, Qt, and .NET. I continued learning tkinter library in Python which is fun, I feel like it's just HTML but now it has some variables to hold the functions. I also setup C++ which is I failed tonight in setting the output to run in the cmd exactly.
