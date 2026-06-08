@@ -1,2 +1,2 @@
 # practice-log
-This contains my learning journey as a starting developer.
+This contains my learning journey as a starting developer and computer engineer
