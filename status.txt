@@ -4,3 +4,4 @@ Day 3: I don't know at all what I did. I am so distracted with everything I see.
 Day 4: I got so excited about so many things. I discovered sub folders lol that makes me want to be organized with projects, code snippets, and more. I made the .exe files dissappear via configuration of JSON settings. I'm also trying to distinguish class and structure in C++. As of now, I am learning functions, it made me realize about the parameter names logic. What a lame debugging skills HAHA.
 Day 5: I missed this. I did VS customization hehe. Learned C++ Structures by making a VAT program.
 Day 6: I continued the analysis of my VAT program and tried some other format of functions and variables. I am now planning to do Figma, Web Design as Hobby, but still focusing on C++ and installing Qt now because I want a GUI for a calculator that I am going to do.
+Day 7: I hate bubble sort.
