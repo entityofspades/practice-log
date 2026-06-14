@@ -5,4 +5,4 @@ Day 4: I got so excited about so many things. I discovered sub folders lol that 
 Day 5: I missed this. I did VS customization hehe. Learned C++ Structures by making a VAT program.
 Day 6: I continued the analysis of my VAT program and tried some other format of functions and variables. I am now planning to do Figma, Web Design as Hobby, but still focusing on C++ and installing Qt now because I want a GUI for a calculator that I am going to do.
 Day 7: I hate bubble sort.
-Day 8: Today, I was lazy but I did understand some things about bubble sort and its syntax. I also customized again my VS Code. I learned Spanish more today LOL. Buenos dias.
+Day 8: Today, I am lazy but I did understand some things about bubble sort and its syntax. I also customized again my VS Code. I learned Spanish more today LOL. Buenos dias.
